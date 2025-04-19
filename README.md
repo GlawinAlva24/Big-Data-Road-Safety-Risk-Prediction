@@ -9,33 +9,33 @@ Developed as part of the Big Data for Decision Making module at Aston University
 
 ## 📂 Repository Structure
 
-big-data-road-safety-prediction/
-├── README.md
-├── datasets/
-│   ├── dft-road-casualty-statistics-collision-provisional.csv
-│   ├── trainset_road-casualty-statistics-collision.xlsx
-│   ├── testset_road-casualty-statistics-collision.xlsx
-│   ├── X_train.csv
-│   ├── y_train_encoded.csv
-│   ├── X_test.csv
-│   └── y_test.csv
-├── notebooks/
-│   ├── group_project_analysis.ipynb
-│   └── individual_risk_prediction_glawin.ipynb
-├── reports/
-│   ├── group/
-│   │   └── Big_data_for_decision_making_GROUP_FINAL.pdf
-│   └── individual/
-│       └── BIG_data_Indivisual_Assignment_Candidate_no_784750.pdf
-├── presentations/
-│   └── Assessment_Brief_slides.pptx
-├── code/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training_lightgbm.py
-│   └── evaluation_metrics.py
-└── environment/
-    └── requirements.txt
+big-data-road-safety-prediction/  
+├── README.md  
+├── datasets/  
+│   ├── dft-road-casualty-statistics-collision-provisional.csv  
+│   ├── trainset_road-casualty-statistics-collision.xlsx  
+│   ├── testset_road-casualty-statistics-collision.xlsx  
+│   ├── X_train.csv  
+│   ├── y_train_encoded.csv  
+│   ├── X_test.csv  
+│   └── y_test.csv  
+├── notebooks/  
+│   ├── group_project_analysis.ipynb  
+│   └── individual_risk_prediction_glawin.ipynb  
+├── reports/  
+│   ├── group/  
+│   │   └── Big_data_for_decision_making_GROUP_FINAL.pdf  
+│   └── individual/  
+│       └── BIG_data_Indivisual_Assignment_Candidate_no_784750.pdf  
+├── presentations/  
+│   └── Assessment_Brief_slides.pptx  
+├── code/  
+│   ├── data_preprocessing.py  
+│   ├── feature_engineering.py  
+│   ├── model_training_lightgbm.py  
+│   └── evaluation_metrics.py  
+└── environment/  
+    └── requirements.txt  
 
 ---
 
