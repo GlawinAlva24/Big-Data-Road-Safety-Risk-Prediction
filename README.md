@@ -1,4 +1,4 @@
-#🚦 Big-Data-Road-Safety-Risk-Prediction
+# 🚦 Big Data for Road Safety: Collision Severity Prediction
 A complete end-to-end machine learning project focused on predicting the severity of road traffic collisions using the UK Department for Transport’s 2023 collision dataset.
 
 The project includes group analysis and individual model development (LightGBM, Random Forest, etc.) with feature engineering, SMOTE balancing, and hyperparameter tuning.
