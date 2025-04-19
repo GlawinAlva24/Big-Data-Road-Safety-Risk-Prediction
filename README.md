@@ -27,11 +27,6 @@ big-data-road-safety-prediction/
 │   │   └── Big_data_for_decision_making_GROUP_FINAL.pdf  
 │   └── individual/  
 │       └── BIG_data_Indivisual_Assignment_Candidate_no_784750.pdf   
-├── code/  
-│   ├── data_preprocessing.py  
-│   ├── feature_engineering.py  
-│   ├── model_training_lightgbm.py  
-│   └── evaluation_metrics.py  
 └── environment/  
     └── requirements.txt  
 
