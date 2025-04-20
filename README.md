@@ -28,7 +28,7 @@ big-data-road-safety-prediction/
 │   └── individual/  
 │       └── BIG_data_Indivisual_Assignment_Candidate_no_784750.pdf   
 └── environment/  
-    └── requirements.txt  
+        └── requirements.txt  
 
 ---
 
