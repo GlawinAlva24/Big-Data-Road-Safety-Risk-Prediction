@@ -87,8 +87,8 @@ Build and evaluate predictive models to classify the severity of road traffic co
 
 ## 📜 Reports
 
-- [Group Final Report](Reports/Group/Big data for decision making GROUP FINAL.pdf)
-- [Individual Report]()
+- [📄 Group Final Report](Reports/group/Big%20data%20for%20decision%20making%20GROUP%20FINAL.pdf)
+- [📄 Individual Report](Reports/individual/BIG_data_Indivisual_Assignment_Candidate_no_784750.pdf)  
 
 ---
 
