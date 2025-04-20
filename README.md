@@ -27,8 +27,8 @@ big-data-road-safety-prediction/
 │   │   └── Big_data_for_decision_making_GROUP_FINAL.pdf  
 │   └── individual/  
 │       └── BIG_data_Indivisual_Assignment_Candidate_no_784750.pdf   
-└── environment/  
-        ├── requirements.txt  
+└── environment/    
+    └── requirements.txt  
 
 ---
 
